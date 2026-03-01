@@ -21,6 +21,7 @@ export interface CandidateMetadata {
   sourceUrl?: string;
   hostname?: string;
   title?: string;
+  preview?: string;
 }
 
 export interface Candidate {
