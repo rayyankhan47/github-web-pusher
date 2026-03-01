@@ -20,3 +20,6 @@ Browser extension scaffold for capturing code from webpages and pushing commits 
 - `npm run dev` - watch mode build
 - `npm run build` - production build
 - `npm run typecheck` - TypeScript checks
+- `npm run lint` - ESLint checks (no warnings allowed)
+- `npm run format` - apply Prettier formatting
+- `npm run format:check` - verify Prettier formatting
