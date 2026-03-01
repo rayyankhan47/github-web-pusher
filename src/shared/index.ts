@@ -5,3 +5,4 @@ export * from "./logger";
 export * from "./models";
 export * from "./messages";
 export * from "./messageClient";
+export * from "./settings";
